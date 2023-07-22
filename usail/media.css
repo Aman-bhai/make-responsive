@@ -1,0 +1,25 @@
+@media screen and (max-width:991px) {
+    
+    .toggle{
+        display: block;
+        
+    }
+    .nav_links{
+        display: none;
+    }
+    .img_slip1,.img_slip2,.img_slip3,.img_slip4{
+        width:calc(50% - 10px);
+        height:200px;
+    }
+    .img_area{
+        gap:20px;
+    }
+    section{
+        width:100vw;
+
+
+    }
+    .cta_section>.flex{
+   }
+  
+}
